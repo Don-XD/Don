@@ -158,7 +158,7 @@ class Logo:
 
 {color_text}╭──────────────────────╮{color_text}╭───────────────╮{color_text}╭────────────────────────────╮
 
-{color_text}│ {P2}Author : Fall Xavier {color_text}│{color_text}│ {P2}Version : 2.0 {color_text}│{color_text}│ {P2}Dont't Recode My Tools Bro {color_text}│
+{color_text}│ {P2}Author : Dony Alfarizy {color_text}│{color_text}│ {P2}Version : 2.0 {color_text}│{color_text}│ {P2}Dont't Recode My Tools Bro {color_text}│
 
 {color_text}╰──────────────────────╯{color_text}╰───────────────╯{color_text}╰────────────────────────────╯""",width=80,style=f"{color_panel}"))
 
